@@ -1,6 +1,3 @@
-# AI-Powered-Banking-Support-Fraud-Intelligence-System-using-NLP-RAG
-
-
 # Banking AI Support System — Dataset Documentation
 
 ## Overview
