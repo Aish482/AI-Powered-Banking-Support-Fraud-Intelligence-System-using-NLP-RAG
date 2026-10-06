@@ -1,6 +1,6 @@
 # Banking AI Support System — Dataset Documentation
-<img width="1900" height="848" alt="image" src="https://github.com/user-attachments/assets/3174112b-e229-40f1-b535-defe19eceabd" />
-<img width="1912" height="862" alt="image" src="https://github.com/user-attachments/assets/6e2515c9-546d-4aac-be5e-78f4d99c292b" />
+<img width="1908" height="955" alt="image" src="https://github.com/user-attachments/assets/31351f42-c4c9-42e3-84b8-898f18c2fd2d" />
+<img width="1913" height="1027" alt="image" src="https://github.com/user-attachments/assets/37fc2f93-60a4-4cbd-be94-0628de71158a" />
 
 
 ## Overview
